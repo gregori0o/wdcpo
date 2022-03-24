@@ -1,4 +1,4 @@
-#Digital Image Processing
+# Digital Image Processing
 
 Tasks from DIP laboratory at AGH University in 2022/2023.
 
