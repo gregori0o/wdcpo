@@ -11,4 +11,5 @@ Tasks from DIP laboratory at AGH University in 2022/2023.
 7. Bilateral
 8. Morphology
 9. Canny
-10. ...
+10. Segmentation
+11. ...
