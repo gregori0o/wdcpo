@@ -12,4 +12,7 @@ Tasks from DIP laboratory at AGH University in 2022/2023.
 8. Morphology
 9. Canny
 10. Segmentation
-11. ...
+11. Connect components
+12. Hough
+13. Fourier
+
